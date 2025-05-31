@@ -17,7 +17,7 @@
 
 | 站点名称 | 站点地址 |
 |:------:|:-----------------------|
-| 王嘉祥 个人主页 | [https://www.jiaxiang.wang](https://www.jiaxiang.wang) |
+| 自由部落 个人主页 | [https://www.yiyou.com](https://www.jiaxiang.wang) |
 
 
 ## ℹ️ 简介

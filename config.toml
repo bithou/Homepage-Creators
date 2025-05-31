@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://jiaxiang.wang"
+base_url = "https://dy.282855.xyz"
 
-title = "个人主页"
+title = "电影部落"
 
-author = "王嘉祥"
+author = "五毛钱"
 
 description = "好奇、探索、创造。个人主页导航网站。"
 
@@ -55,7 +55,7 @@ js = "/path/to/script.js"
 [extra.nav.message]
 enable = true
 # support inline html
-text = "🎉 访问作者博客"
+text = "🎉 访问作者官网"
 url = "https://blog.jiaxiang.wang"
 
 [extra.nav.center]
@@ -69,7 +69,7 @@ menus = [
 
 [extra.nav.right]
 menus = [
-    { name = "作者博客", url = "https://blog.jiaxiang.wang", internal = false},
+    { name = "作者博客", url = "https://dy.282855.xyz", internal = false},
     { name = "作者 Github", url = "https://github.com/iWangJiaxiang", internal = false},
 ]
 
@@ -82,9 +82,9 @@ avif_enable = true
 [[extra.index.widgets]]
 type = "header"
 [extra.index.widgets.value]
-title_1 = "王嘉祥"
-title_2 = "Jiaxiang Wang"
-bio_1 = "专注于科技、音乐等领域<span class=\"inline-word\">跨界创新</span>"
+title_1 = "五毛钱"
+title_2 = "wumao qian"
+bio_1 = "专注于电影、电视剧、音乐等领域<span class=\"inline-word\">跨界创新</span>"
 bio_2 = "分享经验与见解"
 about_url = "https://blog.jiaxiang.wang/about/"
 cover = "/img/logo.svg"
@@ -99,7 +99,7 @@ url = "https://github.com/iWangJiaxiang"
 [[extra.index.widgets]]
 type = "author"
 [extra.index.widgets.value]
-name = "王嘉祥"
+name = "五毛钱"
 avatar = "/img/logo01.webp"
 title = "Team leader, architect,"
 # title = "Team leader, architect, senior engineer, singer songwriter, creator. Engaging in HPC, Cloud, AI and more."
@@ -128,7 +128,7 @@ name = "开发者主页"
 type = "event"
 [extra.index.widgets.value]
 tip = "大事件"
-title = "王嘉祥博客主题<br>正式开源！"
+title = "博客主题<br>正式开源！"
 bio = "一个为创作者而构建的主题，0成本、0运维开始你的博客生涯，与各位优秀博主一同进步！"
 button = "立刻获取源代码"
 note = "基于 Zola 构建"
@@ -217,7 +217,7 @@ title = "主题"
 bio = "帮助更多用户构建出非凡的网站"
 [[extra.index.widgets.value.items]]
 logo = "/img/internet.svg"
-title = "Jiaiang.Wang"
+title = "https://dy.282855.xyz"
 bio = "纯静态个人博客主题 (Zola)"
 url = "https://github.com/iWangJiaxiang/zola-theme-jiaxiang.wang"
 button = "访问"

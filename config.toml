@@ -55,8 +55,8 @@ js = "/path/to/script.js"
 [extra.nav.message]
 enable = true
 # support inline html
-text = "🎉 访问作者官网"
-url = "https://blog.jiaxiang.wang"
+text = "访问部落官网"
+url = "https://dy.282855.xyz"
 
 [extra.nav.center]
 menus = [
@@ -117,7 +117,7 @@ img = "/img/homepage-single.avif"
 [[extra.index.widgets.value.links]]
 class = "primary-button"
 url = "https://github.com/iWangJiaxiang/Homepage-Creators"
-name = "立刻获取源代码"
+name = "科技改变生活"
 [[extra.index.widgets.value.links]]
 class = "second-link"
 url = "https://github.com/iWangJiaxiang"
